@@ -42,6 +42,9 @@ public class Custum_CheckBox extends BaseAcitvity {
 //        });
 
 
+//        button.setOnClickListener(new CustClicklistener());
+
+
 
     }
 

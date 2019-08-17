@@ -5,9 +5,15 @@ import android.view.View;
 public class BackgroundModel {
 
     View[] view;
-    String id;
+    boolean tag;
 
+    public boolean isTag() {
+        return tag;
+    }
 
+    public void setTag(boolean tag) {
+        this.tag = tag;
+    }
 
     public View[] getView() {
         return view;
@@ -17,11 +23,4 @@ public class BackgroundModel {
         this.view = view;
     }
 
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
 }

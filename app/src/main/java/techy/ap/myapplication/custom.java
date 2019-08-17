@@ -36,7 +36,7 @@ public class custom extends AppCompatActivity implements CustCheckChange
             v.setTag(false);
             Button button = (Button) v;
             button.setBackground(context.getDrawable(R.drawable.gray_box));
-            v.setOnClickListener(onClickListener);
+            v.setOnClickListener(new CustClicklistener(list));
         }
 
         onClickListener = new View.OnClickListener() {
