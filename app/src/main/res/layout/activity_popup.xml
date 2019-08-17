@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!--<ScrollView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:orientation="horizontal">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+
+
+
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+
+
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+
+
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+
+
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/spinnerView2"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+
+
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/spinnerView1"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="35dp"-->
+                <!--android:layout_marginStart="20dp"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:layout_marginEnd="20dp"-->
+                <!--android:layout_marginRight="20dp"-->
+                <!--android:background="@drawable/gray_background"-->
+                <!--android:gravity="center"-->
+                <!--android:text="Sipnner"-->
+                <!--app:layout_constraintEnd_toEndOf="parent"-->
+                <!--app:layout_constraintLeft_toLeftOf="parent"-->
+                <!--app:layout_constraintRight_toRightOf="parent"-->
+                <!--app:layout_constraintStart_toStartOf="parent"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="28dp"-->
+                <!--android:layout_height="28dp"-->
+                <!--android:layout_marginTop="24dp"-->
+                <!--android:layout_marginRight="8dp"-->
+                <!--android:src="@drawable/drowp_down"-->
+                <!--app:layout_constraintRight_toRightOf="@+id/spinnerView"-->
+                <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+
+        <!--</LinearLayout>-->
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_gravity="bottom"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:layout_gravity="bottom"
+                android:id="@+id/spinnerView"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/gray_background"
+                android:gravity="center"
+                android:text="Sipnner"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="8dp"
+                android:src="@drawable/drowp_down"
+                app:layout_constraintRight_toRightOf="@+id/spinnerView"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+        </android.support.constraint.ConstraintLayout>
+
+
+
+
+    <!--</ScrollView>-->
+
+</layout>
