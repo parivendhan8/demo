@@ -1,4 +1,4 @@
-package techy.ap.myapplication;
+package techy.ap.myapplication.Activity;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import com.jaredrummler.materialspinner.MaterialSpinnerAdapter;
 
 import java.util.List;
+
+import techy.ap.myapplication.R;
 
 public class SpinnerAdapter extends MaterialSpinnerAdapter<Model> {
 

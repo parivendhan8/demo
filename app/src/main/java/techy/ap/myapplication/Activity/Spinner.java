@@ -1,4 +1,4 @@
-package techy.ap.myapplication;
+package techy.ap.myapplication.Activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -8,6 +8,8 @@ import android.widget.Button;
 import com.jaredrummler.materialspinner.MaterialSpinner;
 
 import java.util.ArrayList;
+
+import techy.ap.myapplication.R;
 
 public class Spinner extends AppCompatActivity {
 

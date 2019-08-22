@@ -1,9 +1,7 @@
-package techy.ap.myapplication;
+package techy.ap.myapplication.Activity;
 
 import android.content.Context;
 import android.os.Build;
-import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
@@ -12,6 +10,8 @@ import android.widget.Button;
 import androidx.annotation.RequiresApi;
 
 import java.util.ArrayList;
+
+import techy.ap.myapplication.R;
 
 public class custom extends AppCompatActivity implements CustCheckChange
 {

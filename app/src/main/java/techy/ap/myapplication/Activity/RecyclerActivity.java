@@ -1,4 +1,4 @@
-package techy.ap.myapplication;
+package techy.ap.myapplication.Activity;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -13,13 +13,13 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import techy.ap.myapplication.RecyclerActivity.CustAdapter.MyViewHolder;
+import techy.ap.myapplication.Activity.RecyclerActivity.CustAdapter.MyViewHolder;
+import techy.ap.myapplication.R;
 
 public class RecyclerActivity extends AppCompatActivity {
 
@@ -118,7 +118,7 @@ public class RecyclerActivity extends AppCompatActivity {
                 holder.textView_name.setText("Prem ");
                 holder.tv_location.setText("Coimbatore ");
                 holder.tv_mobile.setText("9042298545 ");
-                Log.d(TAG, "onBindViewHolder: " + "it is empty");
+                Log.d(TAG, "onBindViewHolder: " + "it is child_empty");
             }
 
 //            holder.textView.setCompoundDrawablesWithIntrinsicBounds();

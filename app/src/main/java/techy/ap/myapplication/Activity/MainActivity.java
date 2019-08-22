@@ -1,18 +1,15 @@
-package techy.ap.myapplication;
+package techy.ap.myapplication.Activity;
 
 import android.databinding.DataBindingUtil;
-import android.support.constraint.ConstraintLayout;
-import android.support.constraint.Constraints;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.PopupMenu;
 import android.widget.PopupWindow;
 import android.widget.Toast;
 
+import techy.ap.myapplication.R;
 import techy.ap.myapplication.databinding.ActivityPopupBinding;
 
 

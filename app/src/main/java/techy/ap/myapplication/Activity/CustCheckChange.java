@@ -1,4 +1,4 @@
-package techy.ap.myapplication;
+package techy.ap.myapplication.Activity;
 
 import android.os.Build;
 import android.view.View;
